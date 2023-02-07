@@ -1,0 +1,9 @@
+numpy
+pandas
+inflection
+Flask
+xgboost==1.6.2
+scikit-learn
+missingno
+category_encoders
+umap-learn
